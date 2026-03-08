@@ -140,7 +140,7 @@
             label2.Name = "label2";
             label2.Size = new Size(158, 22);
             label2.TabIndex = 10;
-            label2.Text = string.Empty;
+            label2.Text = "label2";
             label2.Click += label2_Click;
             // 
             // button10
@@ -151,7 +151,6 @@
             button10.TabIndex = 11;
             button10.Text = "+";
             button10.UseVisualStyleBackColor = true;
-            button10.Click += button10_Click;
             // 
             // button11
             // 
